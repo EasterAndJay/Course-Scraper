@@ -1,0 +1,69 @@
+ANTH 5 - Introductory Biological Anthropology
+ASTRO 1 - Basic Astronomy
+ASTRO 2 - History of the Universe
+C LIT 27 - Memory: Bridging the Humanities and Neurosciences
+CHEM 1A and CHEM 1AL - General Chemistry (both courses must be taken to satisfy requirement)
+CHEM 2A and CHEM 2AC - General Chemistry (Honors) (both courses must be taken to satisfy requirement)
+CMPSC 8 - Introduction to Computer Science
+COMM 87 - Statistical Analysis for Communication
+EARTH 1 - Geology and Environment
+EARTH 2 - Principles of Physical Geology
+EARTH 4 - Introduction to Oceanography
+EARTH 6 - Mountains, Boots, and Backpacks: Field Study of the High Sierra
+EARTH 7 - Dinosaurs
+EARTH 8 - Africa: Climate and Human Evolution
+EARTH 9 - Giant Earthquakes
+EARTH 10 - Antarctica: The Last Place on Earth
+EARTH 20 - Geological Catastrophes
+EARTH 30 - The History of Life
+EARTH 111 - Principles of Paleontology
+EARTH 123 - The Solar System
+EARTH 130 - Global Warming - Science and Society
+EARTHW 20 - Geological Catastrophes (Online)
+EEMB 3 - Introductory Biology III
+EEMB 21 - General Botany
+EEMB 22 - Concepts and Controversies in the Biological Sciences
+EEMB 23 - Human Development and Reproductive Physiology
+EEMB 40 - Ecology of Infectious Disease
+EEMB 50 - Biology of Non-Infectious Disease
+EEMB 136 - Principles of Paleontology
+EEMB W 22 - Concepts and Controversies in the Biological Sciences
+ENV S 2 - Introduction to Environmental Science
+ENV S 115 - Energy and the Environment
+FR 40X - Memory: Bridging the Humanities and Neuroscience
+GEOG 3A - Oceans and Atmosphere
+GEOG 3B - Land, Water and Life
+GEOG 8 - Living with Global Warming
+GEOG 12 - Maps and Spatial Reasoning
+GEOG W 8 - Living with Global Warming
+GEOG W 12 - Maps and Spatial Reasoning
+LING 106 - Introduction to Phonetics
+LING 185 - Animal Communication
+MATH 3A - Calculus with Applications, First Course
+MATH 3B - Calculus with Applications, Second Course
+MATH 34A - Calculus for Social and Life Sciences
+MATH 34B - Calculus for Social and Life Sciences
+MATRL 10 - Materials in Society, The Stuff of Dreams
+MCDB 1A - Introductory Biology I
+MCDB 20 - Concepts of Biology
+MCDB 21 - The Immune System and Aids
+MCDB 23 - Biology of Cancer
+MCDB 24 - Genetics and Human Disease
+MCDB 26 - Contemporary Nutrition
+MCDB 27 - Memory: Bridging the Humanities and Neuroscience
+MCDB 29 - Fundamentals of Biomedical Research
+PHIL 183 - Beginning Modern Logic
+PHYS 1 - Basic Physics
+PHYS 6A and PHYS 6AL - Introductory Physics (both courses must be taken to satisfy requirement)
+PHYS 6B and PHYS 6BL - Introductory Physics (both courses must be taken to satisfy requirement)
+PHYS 6C and PHYS 6CL - Introductory Physics (both courses must be taken to satisfy requirement)
+PHYS 10 - Concepts of Physics
+PHYS 21 - General Physics
+PSTAT 5A - Statistics
+PSTAT 5E - Statistics With Economics And Business Applications
+PSTAT 5LS - Statistics for Life Sciences
+PSY 3 - The Biological Basis of Psychology
+PSY 5 - Introductory Statistics
+PSY 107 - Introduction to Perception
+PSY 108 - Introduction to Cognitive Psychology
+SHS 121 - Physics of Speech and Hearing

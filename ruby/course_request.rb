@@ -35,6 +35,8 @@ module CourseRequest
 	# Takes HTML page object of the corresponding department as argument
 	# Returns array of all courses in one department
 	def self.getCourses(page)
+		omit = ['Courses','Plan Schedule','Saved Schedules',
+				'Textbooks','Friends']
 		courses = Array.new
 		page.css('li').each do |course|
 			if course.text.match('(not offered Fall 2015)')

@@ -1,0 +1,189 @@
+ANTH 138TS - Archaeology of Egypt
+ANTH 176TS - Ancient Egyptian Religion
+ARTHI 6A - Art Survey I: Ancient-Medieval Art
+ARTHI 6B - Art Survey II: Renaissance-Baroque Art
+ARTHI 6C - Art Survey III: Modern-Contemporary Art
+ARTHI 109G - Leonardo Da Vinci: Art, Science, and Technology in Early Modern Italy
+ARTHI 115E - The Grand Tour: Experiencing Italy in the Eighteenth Century
+ARTHI 136I - The City in History
+ARTHI 144D - Russian Art
+ARTHI 148A - Contemporary Art History: 1960-2000
+ARTHI 148B - Global Art After 1980
+AS AM 71 - Introduction to Asian American Religions
+AS AM 138 - Asian American Sexualities
+AS AM 161 - Asian American Religions
+BL ST 3 - Introduction to African Studies
+BL ST 5 - Blacks and Western Civilization
+BL ST 7 - Introduction to Caribbean Studies
+BL ST 49A - Survey of African History
+BL ST 49B - Survey of African History
+BL ST 50 - Blacks in the Media
+BL ST 104 - Black Marxism
+BL ST 130A - Negritude and African Literature
+BL ST 130B - The Black Francophone Novel
+C LIT 27 - Memory: Bridging the Humanities and Neurosciences
+C LIT 30A - Major Works in European Literature
+C LIT 30B - Major Works in European Literature
+C LIT 30C - Major Works in European Literature
+C LIT 35 - The Making of the Modern World
+C LIT 113 - Trauma, Memory, Historiography
+C LIT 119 - Psychoanalytic Theory
+C LIT 122A - Representations of the Holocaust
+C LIT 171 - Post-Colonial Cultures
+C LIT 179A - Revolutions: Marx, Nietzsche, Freud
+C LIT 186RR - Romantic Revolutions: Philosophy, History, and the Arts in Europe
+CH ST 13 - Critical Introduction to Ancient Mesoamerica
+CHIN 26 - New Phenomena in 21st Century Chinese
+CHIN 148 - Historic Lives
+CHIN 183B - Religious Practice and the State in China
+CHIN 185A - Qing Empire
+CHIN 185B - Modern China (since 1911)
+CLASS 50 - Introduction to Classical Archaeology
+CLASS 80A - Greek Civilization
+CLASS 80B - Roman Civilization
+CLASS 101 - Greek Intellectual History from Homer to Aristotle
+CLASS 106 - Magic And Medicine In Ancient Greece
+CLASS 108 - Pagan Religion And Cult In Ancient Rome
+CLASS 125 - Greek and Roman Historians in Translation
+CLASS 150 - The Fall of the Ancient Republic: Cicero, Caesar, and Rome
+CLASS 160 - Greek Cities and Sanctuaries
+CLASS 171 - Artifact and Text: The Archaeology and Literature of Early Greece
+EACS 3 - Introduction to Asian Religious Traditions
+EACS 4A - East Asian Traditions: Pre-modern
+EACS 4B - East Asian Traditions: Modern
+EACS 5 - Introduction to Buddhism
+EACS 7 - Asian Values
+EACS 21 - Zen Buddhism
+EACS 80 - East Asian Civilization
+EACS 164B - Buddhist Traditions in East Asia
+ENV S 3 - Introduction to the Social and Cultural Environment
+ENV S 107C - The Darwinian Revolution and Modern Biology
+ENV S 107E - History of Animal Use in Science
+FEMST 171CN - Citoyennes! Women and Politics in Modern France
+FR 40X - Memory: Bridging the Humanities and Neuroscience
+FR 50AX - Tales of Love
+FR 50BX - Tales of Love-European Traditions
+FR 50CX - Tales of Western Love
+FR 149C - Reading Paris (1830-1890)
+FR 154F - Time Off in Paris!
+FR 154G - Post-Colonial Cultures
+FR 155D - Citoyennes! Women and Politics in Modern France
+GER 43A - Dreaming Revolutions: Introduction to Marx, Nietzsche and Freud
+GER 43C - Germany Today
+GER 111 - Contemporary German Art and Politics
+GER 112 - Introduction to German Culture
+GER 116A - Representations of the Holocaust
+GER 179A - Revolutions: Marx, Nietzsche, Freud
+GLOBL 1 - Global History, Culture and Ideology
+HIST 2A - World History
+HIST 2AH - World History - Honors
+HIST 2B - World History
+HIST 2BH - World History - Honors
+HIST 2C - World History
+HIST 2CH - World History - Honors
+HIST 4A - Western Civilization
+HIST 4AH - Western Civilization-Honors
+HIST 4B - Western Civilization
+HIST 4BH - Western Civilization-Honors
+HIST 4C - Western Civilization
+HIST 4CH - Western Civilization-Honors
+HIST 8 - Introduction to History of Latin America
+HIST 20 - Science, Technology, and Medicine in Modern Society
+HIST 33D - The Holocaust: Interdisciplinary Perspectives
+HIST 46 - Survey of Middle Eastern History
+HIST 49A - Survey of African History
+HIST 49B - Survey of African History
+HIST 80 - East Asian Civilization
+HIST 87 - Japanese History Through Art and Literature
+HIST 106A - The Origins of Western Science, Antiquity to 1500
+HIST 106B - The Scientific Revolution, 1500 to 1800
+HIST 106C - History of Modern Science
+HIST 107B - History of the Biological Sciences: Circa 1600 to 1800
+HIST 107C - The Darwinian Revolution and Modern Biology
+HIST 107E - History of Animal Use in Science
+HIST 114B - History of Christianity
+HIST 114C - History of Christianity
+HIST 114D - History of Christianity
+HIST 133B - Twentieth Century Germany, Part I
+HIST 133C - Twentieth Century Germany, Part II
+HIST 133D - The Nazi Holocaust and Other Genocides
+HIST 182A - Korean History and Civilization: Part I
+HIST 182B - Korean History and Civilization: Part II
+HIST 185A - Qing Empire
+HIST 185B - Modern China (Since 1911)
+HIST 187A - Japan Under the Tokugawa Shoguns
+HIST 187B - Modern Japan
+HIST 187C - Recent Japan
+HIST 189E - History of the Pacific
+ITAL 20X - Introduction to Italian Culture
+ITAL 138AA - Cultural Representations in Italy
+ITAL 138AX - Cultural Representations in Italy
+ITAL 138CX - Cultural Representations in Italy
+ITAL 138D - Cultural Representations in Italy
+ITAL 138DX - Cultural Representations in Italy
+ITAL 138EX - Cultural Representations in Italy
+ITAL 138FF - Cultural Representations in Italy
+ITAL 138FX - Cultural Representations in Italy
+ITAL 138N - Cultural Representations in Italy
+ITAL 138X - Cultural Representations in Italy
+ITAL 138XX - Cultural Representations in Italy
+ITAL 144AX - Gender and Sexuality in Italian Culture
+ITAL 189A - Italy in the Mediterranean: History, Arts, and Culture
+JAPAN 164 - Modernity and the Masses of Taisho Japan
+KOR 182A - Korean History and Civilization: Part I
+KOR 182B - Korean History and Civilization Part II
+LAIS 101 - Interdisciplinary Approaches to the History and Societies of Latin America and Iberia
+LING 30 - The Story Of English
+LING 50 - Language and Power
+LING 80 - Endangered Languages
+MCDB 27 - Memory: Bridging the Humanities and Neuroscience
+MES 45 - Introduction to Middle East Studies
+PHIL 1 - Short Introduction to Philosophy
+PHIL 3 - Critical Thinking
+PHIL 4 - Introduction to Ethics
+PHIL 20A - History of Philosophy
+PHIL 20B - History of Philosophy
+PHIL 20C - History of Philosophy
+PHIL 100A - Ethics
+PHIL 100B - Theory of Knowledge
+PHIL 100C - Philosophy of Language
+PHIL 100D - Philosophy of Mind
+PHIL 100E - Metaphysics
+PHIL 112 - Philosophy of Religion
+PHYS 43 - Origins: A Dialogue Between Scientists and Humanists
+POL S 187 - Classical Political Theory
+POL S 188 - Modern Political Theory
+POL S 189 - Recent and Contemporary Political Theory
+PORT 125A - Culture and Civilization of Portugal
+PORT 125B - Culture and Civilization of Brazil
+RG ST 1 - Introduction to the Study of Religion
+RG ST 3 - Introduction to Asian Religious Traditions
+RG ST 4 - Introduction to Buddhism
+RG ST 5 - Introduction to Judaism, Christianity, and Islam
+RG ST 6 - Islam and Modernity
+RG ST 12 - Religious Approaches to Death
+RG ST 19 - The Gods and Goddesses of India
+RG ST 20 - Indic Civilization
+RG ST 21 - Zen Buddhism
+RG ST 25 - Global Catholicism Today
+RG ST 31 - The Religions of Tibet
+RG ST 34 - Saints and Miracles in the Catholic Tradition
+RG ST 43 - Origins: A Dialogue Between Scientists and Humanists
+RG ST 71 - Introduction to Religion in Asian America
+RG ST 80A - Religion and Western Civilization I: Ancient
+RG ST 80B - Religion and Western Civilization II: Medieval
+RG ST 80C - Religion and Western Civilization III: Modern
+RG ST 116A - The New Testament and Early Christianity
+RG ST 123 - Asian American Religions
+RG ST 126 - Roman Catholicism Today
+RG ST 130 - Judaism
+RG ST 136 - Creation Myths
+RG ST 138B - Global Catholicism
+RG ST 162C - Sikhism
+RG ST 162E - Indian Civilization
+RG ST 164B - Buddhist Traditions in East Asia
+RG ST 183B - Religious Practice and the State in China
+SLAV 33 - Russian Culture
+SLAV 130D - Russian Art
+SPAN 153 - Basque Studies
+SPAN 177 - Spanish-American Thought

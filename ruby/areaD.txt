@@ -3,6 +3,9 @@ ANTH 3 - Introductory Archaeology
 ANTH 3SS - Introduction to Archaeology
 ANTH 7 - Introductory Biosocial Anthropology
 ANTH 25 - Violence and the Japanese State
+ANTH 103A - Anthropology of China
+ANTH 103B - Anthropology of Japan
+ANTH 103C - Anthropology of Contemporary Korea
 ANTH 109 - Human Universals
 ANTH 110 - Technology and Culture
 ANTH 122 - Anthropology of World Systems
@@ -17,10 +20,11 @@ ANTH 141 - Agriculture and Society in Mexico: Past and Present
 ANTH 142 - Peoples and Cultures of India
 ANTH 156 - Understanding Africa
 ANTH 176 - Representations of Sexuality in Modern Japan
+ANTH 191 - Indigenous Movements in Asia
 AS AM 1 - Introduction to Asian American History, 1850-Present
 AS AM 2 - American Migration Since 1965: Asians and others in the United States
 AS AM 3 - Asian American Personality and Identity
-AS AM 6 - Sociology of Asian America
+AS AM 7 - Globalization, Gender and Social Inequality in Asian America
 AS AM 8 - Introduction to Asian American Gender and Sexuality
 AS AM 100AA - Chinese Americans
 AS AM 100BB - Japanese Americans
@@ -28,12 +32,19 @@ AS AM 100FF - South Asian Americans
 AS AM 107 - Third World Social Movements
 AS AM 111 - Asian American Communities and Contemporary Issues
 AS AM 119 - Asian Americans and Race Relations
+AS AM 130 - Colonialism and Migration in the Passage to America
 AS AM 131 - Asian American Women's History
-AS AM 136 - Asian American Familiies
+AS AM 136 - Asian American Families
 AS AM 137 - Multiethnic Asian Americans
-BL ST 1 - Introduction to Afro-American Studies
+AS AM 154 - Race and Law in Early American History
+AS AM 155 - Racial Segregation from the Civil War to the Civil Rights Movement
+AS AM 156 - Race and Law in Modern America
+AS AM 165 - Ethnographies of Asian America
+BL ST 1 - Introduction to African-American Studies
+BL ST 1H - Introduction to African-American Studies- Honors Seminar
 BL ST 4 - Critical Introduction to Race and Racism
 BL ST 6 - The Civil Rights Movement
+BL ST 6H - The Civil Rights Movement- Honors
 BL ST 15 - The Psychology of Blacks
 BL ST 100 - Africa and United States Policy
 BL ST 102 - Black Radicals and the Radical Tradition
@@ -41,11 +52,14 @@ BL ST 103 - The Politics of Black Liberation - The Sixties
 BL ST 122 - The Education of Black Children
 BL ST 124 - Housing, Inheritance, and Race
 BL ST 125 - Queer Black Studies
+BL ST 129 - The Urban Dilemma
+BL ST 131 - Race and Public Policy
 BL ST 160 - Analyses of Racism and Social Policy in the United States
-BL ST 169AR - Afro-American History
-BL ST 169BR - Afro-American History
-BL ST 169CR - Afro-American History
+BL ST 169AR - African-American History
+BL ST 169BR - African-American History
+BL ST 169CR - African-American History
 BL ST 171 - Africa in Film
+BL ST 174 - From Plantations to Prisons
 C LIT 119 - Psychoanalytic Theory
 CH ST 1A - Introduction to Chicano/a Studies
 CH ST 1B - Introduction to Chicano/a Studies
@@ -55,7 +69,6 @@ CH ST 137 - Chicana/o Oral Traditions
 CH ST 140 - Chicana/o Mexican Cultural Heritage
 CH ST 144 - The Chicano Community
 CH ST 151 - De-Colonizing Feminism
-CH ST 155W - La Chicana: Mexican Women in the United States
 CH ST 168A - History of the Chicano
 CH ST 168B - History of the Chicano
 CH ST 172 - Law and Civil Rights
@@ -65,13 +78,18 @@ CH ST 175 - Comparative Social Movements
 CH ST 176 - Theories of Social Change and Chicano Political Life
 CH ST 178A - Global Migration, Transnationalism in Chicana/o Contexts
 CH ST 179 - Democracy and Diversity
-CH ST 189B - The Global Underground
-CH ST 189C - Cultures of Globalization
+CH ST 187 - Language, Power, and Learning
 COMM 1 - Introduction to Communication
-EACS 189A - Vietnamese History
+EACS 40 - Gender and Sexuality in Modern Asia
+EACS 103A - Anthropology of China
+EACS 103B - Anthropology of Japan
+EACS 103C - Anthropology of Contemporary Korea
+EACS 140 - Indigenous Movements in Asia
+EACS 186 - The Invention of Tradition in Contemporary East Asia
 ECON 1 - Principles of Economics-Micro
 ECON 2 - Principles of Economics-Macro
-ECON 109 - Introduction to Economics
+ECON 9 - Introduction to Economics
+ED 187 - Language, Power, and Learning
 ENV S 1 - Introduction to Environmental Studies
 ENV S 130A - Coupled Human and Natural Systems: Risks, Vulnerability, Resilience, and Disasters
 ENV S 130B - Global Tourism and Environmental Conservation
@@ -89,42 +107,37 @@ FEMST 153 - Women and Work
 FEMST 159B - Women in American History
 FEMST 159C - Women in Twentieth-Century American History
 GEOG 2 - World Regions
-GEOG 5 - People, Place and Environment
+GEOG 5 - People, Place, and Environment
 GEOG 20 - Geography of Surfing
 GEOG 108 - Urban Geography
-GEOG 150 - Geography of the U.S.
+GEOG 150 - Geography of the United States
 GLOBL 1 - Global History, Culture and Ideology
 GLOBL 2 - Global Socioeconomic and Political Processes
 GLOBL 11 - Introduction to Law and Society
 HIST 7 - Great Issues in the History of Public Policy
-HIST 11A - History of America's Racial and Ethnic Minorities
 HIST 17A - The American People
 HIST 17AH - The American People-Honors
 HIST 17B - The American People
 HIST 17BH - The American People-Honors
 HIST 17C - The American People
 HIST 17CH - The American People-Honors
+HIST 25 - Violence and the Japanese State
 HIST 82 - Anthropology of Korea
 HIST 105A - The Atomic Age
 HIST 117A - Towns, Trade, and Urban Culture in the Middle Ages
 HIST 117C - Women, The Family, and Sexuality in the Middle Ages
-HIST 131F - Anti-Semite and Jew in Modern Europe and America, 1870 to Present
-HIST 138B - The Vietnam Wars
 HIST 159B - Women in American History
 HIST 159C - Women in Twentieth Century American History
 HIST 161A - Colonial and Revolutionary America
 HIST 161B - Colonial and Revolutionary America
-HIST 167B - Development of American Industrial Society, 1860 to Present
-HIST 167C - History of American Labor
 HIST 167CA - History of the American Working Class, 1800-1900
-HIST 167CB - History of the American Working Class, 1900-Present
+HIST 167CB - Capital and Class in 20th Century America
 HIST 167CP - Proseminar in American Working Class History
 HIST 168A - History of the Chicanos
 HIST 168B - History of the Chicanos
-HIST 169AR - Afro-American History
-HIST 169BR - Afro-American History
-HIST 169CR - Afro-American History
-HIST 171A - The United States and the World to 1917
+HIST 169AR - African-American History
+HIST 169BR - African-American History
+HIST 169CR - African-American History
 HIST 172A - Politics and Public Policy in the United States
 HIST 172B - Politics and Public Policy in the United States
 HIST 175A - American Cultural History
@@ -143,7 +156,7 @@ LING 132 - Language, Gender, and Sexuality
 LING 136 - African American Language and Culture
 LING 170 - Language in Social Interaction
 LING 180 - Language, Race and Ethnicity
-ME ST 100A - Women, the Family and Sexuality in the Middle Ages
+LING 187 - Language, Power and Learning
 MS 27 - American Military History and the Evolution of Western Warfare
 MUS 175E - Music Cultures of the World: China
 MUS 175F - Music Cultures of the World: The Middle East
@@ -151,6 +164,7 @@ MUS 175G - Music Cultures of the World: India
 MUS 175I - Music Cultures of the World: Indonesia
 POL S 1 - Introduction to Political Philosophy
 POL S 12 - American Government and Politics
+POL S 114 - Democracy and Diversity
 POL S 115 - Courts, Judges and Politics
 POL S 121 - International Politics
 POL S 136 - Government and Politics of China
@@ -159,23 +173,18 @@ POL S 150A - Politics of the Middle East
 POL S 151 - Voting and Elections
 POL S 155 - Congress
 POL S 171 - Politics and Communication
-POL S 174 - Chicano/a Politics
 PSY 1 - Introduction to Psychology
+PSY 101 - Health Psychology
 PSY 102 - Introduction to Social Psychology
 PSY 103 - Introduction to Psychopathology
 PSY 105 - Developmental Psychology
-PSY 107 - Introduction to Perception
-PSY 108 - Introduction to Cognitive Psychology
 RG ST 7 - Introduction to American Religion
 RG ST 14 - Introduction to Native American Religious Studies
 RG ST 15 - Religion and Psychology
-RG ST 40 - Religion and Society
-RG ST 114B - Religious Traditions of the Southwest
+RG ST 35 - Introduction to Religion and Politics
 RG ST 115A - Literature and Religion of the Hebrew Bible/Old Testament
 RG ST 131H - Politics and Religion in the City: The Case of Jerusalem
-RG ST 136 - Creation Myths
 RG ST 141A - Sociology of Religion: The Classical Statements
-RG ST 141B - Sociology of Religion: Religious Organizations in Contemporary Society
 RG ST 147 - Religion and the American Experience
 RG ST 151A - Religion in American History to 1865
 RG ST 151B - Religion in American History Since 1865
@@ -191,4 +200,3 @@ SOC 144 - The Chicano Community
 SOC 152A - Sociology of Human Sexuality
 SOC 153 - Women and Work
 SPAN 178 - Mexican Culture
-THTR 65 - Public Speaking

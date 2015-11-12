@@ -1,0 +1,239 @@
+ART 1A - Visual Literacy
+ART 7A - The Intersections of Art and Life
+ART 106W - Introduction to 2D/3D Visualizations in Architecture
+ART 125 - Art Since 1950
+ARTHI 1 - Introduction to Art
+ARTHI 5A - Introduction to Architecture and Environment
+ARTHI 5B - Introduction to Museum Studies
+ARTHI 6A - Art Survey I: Ancient-Medieval Art
+ARTHI 6B - Art Survey II: Renaissance-Baroque Art
+ARTHI 6C - Art Survey III: Modern-Contemporary Art
+ARTHI 6DS - Survey: History of Art in China
+ARTHI 6DW - Survey: Art of Japan and Korea
+ARTHI 6E - Survey: Arts of Africa, Oceania, and Native North America
+ARTHI 6F - Survey: Architecture and Planning
+ARTHI 6G - Survey: History of Photography
+ARTHI 6H - Survey: Pre-Columbian Art
+ARTHI 6J - Survey: Contemporary Architecture
+ARTHI 6K - Survey: Islamic Art and Architecture
+ARTHI 103A - Roman Architecture
+ARTHI 103B - Roman Art: From the Republic to the Empire (509B.C. to A.D. 337)
+ARTHI 103C - Greek Architecture
+ARTHI 105C - Medieval Architecture: From Constantine to Charlemagne
+ARTHI 105E - The Origins of Romanesque Architecture
+ARTHI 105G - Late Romanesque and Gothic Architecture
+ARTHI 105L - Art and Society in Late-Medieval Tuscany
+ARTHI 107A - Painting in the 15th-Century Netherlands
+ARTHI 107B - Painting in the 16th-Century Netherlands
+ARTHI 109A - Italian Renaissance Art: 1400-1500
+ARTHI 109B - Italian Renaissance Art: 1500-1600
+ARTHI 109C - Art as Technique, Labor, and Idea in Renaissance Italy
+ARTHI 109D - Art and the Formation of Social Subjects in Early Modern Italy
+ARTHI 109E - Michelangelo
+ARTHI 109F - Italian Journeys
+ARTHI 109G - Leonardo Da Vinci: Art, Science, and Technology in Early Modern Italy
+ARTHI 111B - Dutch Art in the Age of Rembrandt
+ARTHI 111C - Dutch Art in the Age of Vermeer
+ARTHI 111E - Gender and Power in Sixteenth and Seventeenth Century European Art
+ARTHI 111F - Rethinking Rembrandt
+ARTHI 113A - Seventeenth Century Art in Southern Europe
+ARTHI 113B - Seventeenth Century Art in Italy I
+ARTHI 113F - Bernini and the Age of the Baroque
+ARTHI 115B - Eighteenth-Century Art: 1750 to 1810
+ARTHI 115C - Eighteenth-Century British Art and Culture
+ARTHI 115D - Eighteenth-Century Art in Italy: The Age of the Grand Tour
+ARTHI 117B - Nineteenth-Century Art: 1848-1900
+ARTHI 117C - Nineteenth-Century British Art and Culture
+ARTHI 117F - Impressionism and Post-Impressionism
+ARTHI 119B - Contemporary Art
+ARTHI 119C - Expressionism to New Objectivity: Early Twentieth Century German Art
+ARTHI 119D - Art in the Post-Modern World
+ARTHI 119E - Early Twentieth Century European Art, 1900-1945
+ARTHI 119F - Art of the Post-War Period, 1945-1968
+ARTHI 119G - Critical Approaches to Visual Culture
+ARTHI 121A - American Art from Revolution to Civil War: 1700-1860
+ARTHI 121B - Reconstruction, Renaissance, and Realism in American Art: 1860-1900
+ARTHI 121C - Twentieth-Century American Art: Modernism and Pluralism, 1900-Present
+ARTHI 121D - African American Art and the African Legacy
+ARTHI 127A - African Art I
+ARTHI 127B - African Art II
+ARTHI 130A - Pre-Columbian Art of Mexico
+ARTHI 130B - Pre-Columbian Art of the Maya
+ARTHI 130C - The Arts of Spain and New Spain
+ARTHI 130D - Pre-Columbian Art of South America
+ARTHI 132A - Mediterranean Cities
+ARTHI 132I - Art of Empire
+ARTHI 134A - Buddhist Art
+ARTHI 134B - Early Chinese Art
+ARTHI 134C - Chinese Painting I
+ARTHI 134D - Art and Modern China
+ARTHI 134E - The Art of the Chinese Landscape
+ARTHI 134F - The Arts of Japan
+ARTHI 134G - Japanese Painting
+ARTHI 134H - Ukiyo-e: Pictures of the Floating World
+ARTHI 136A - Nineteenth-Century Architecture
+ARTHI 136B - Twentieth-Century Architecture
+ARTHI 136D - Design & the American Architect
+ARTHI 136H - Housing American Cultures
+ARTHI 136I - The City in History
+ARTHI 136J - Landscape of Colonialism
+ARTHI 136K - Modern Architecture in Early Twentieth-Century Europe
+ARTHI 136L - From Modernism to Post-Modernism in European Architecture
+ARTHI 136M - Revival Styles in Southern Californian Architecture
+ARTHI 136O - Sustainable Architecture: History and Aesthetics
+ARTHI 136R - Architecture of the Americas
+ARTHI 136W - Introduction to 2D/3D Visualizations in Architecture
+ARTHI 136Y - Modern Architecture in Southern California, C. 1890s to the Present
+ARTHI 138B - Contemporary Photography
+ARTHI 138C - Social Documentary Photography
+ARTHI 140E - Landscape Design History
+ARTHI 141D - Birth of the Modern Museum
+ARTHI 141G - The Architecture of Museums and Galleries from c. 1800 to the Present
+ARTHI 144A - The Avantgarde in Russia
+ARTHI 144C - Contemporary Art in Russia and Eastern Europe
+ARTHI 144D - Russian Art
+ARTHI 148A - Contemporary Art History: 1960-2000
+ARTHI 148B - Global Art After 1980
+AS AM 4 - Introduction to Asian American Popular Culture
+AS AM 118 - Asian Americans in Popular Culture
+AS AM 120 - Asian American Documentary
+AS AM 127 - Asian American Film, Television, and Digital Media
+AS AM 140 - Theory & Production of Social Experience
+AS AM 146 - Racialized Sexuality on Screen and Scene
+BL ST 14 - The History of Jazz
+BL ST 45 - Black Arts Expressions
+BL ST 142 - Music in African-American Cultures: U.S.A.
+BL ST 153 - Black Popular Music in America
+BL ST 161 - "Third World" Cinema
+BL ST 162 - African Cinema
+BL ST 170 - African-Americans in the American Cinema
+BL ST 171 - Africa in Film
+BL ST 172 - Contemporary Black Cinema
+BL ST 175 - Black Diaspora Cinema
+C LIT 186FF - NOIR: 1940's Film and Fiction
+CH ST 125B - Contemporary Chicano and Chicana Art
+CH ST 138 - Barrio Popular Culture
+CH ST 148 - Chicana Art and Feminism
+CH ST 188C - Chicano Theater Workshop
+CHIN 40 - Popular Culture in Modern Chinese Societies
+CHIN 170 - New Taiwan Cinema
+CHIN 176 - Chinese Cinema: Nationalism and Globalism
+CLASS 102 - Greek Tragedy In Translation
+CLASS 165 - Greek Painting
+CLASS 170 - Pompeii
+DANCE 35 - History and Appreciation of World Dance
+DANCE 36 - History of Modern Dance
+DANCE 45 - History and Appreciation of Dance
+DANCE 145A - Studies in Dance History to 1789
+DANCE 145B - Studies in Dance History: Ballet
+DANCEW 36 - History of Modern Dance
+EACS 134A - Buddhist Art
+FAMST 46 - Introduction to Cinema
+FAMST 120 - Japanese Cinema
+FAMST 121 - Chinese Cinema
+FAMST 122AA - Topics in National Cinema
+FAMST 122AD - Topics in National Cinema
+FAMST 122AE - Topics in National Cinema
+FAMST 122AG - Topics in National Cinema
+FAMST 122AR - Topics in National Cinema
+FAMST 122AU - Topics in National Cinema
+FAMST 122AZ - Topics in National Cinema
+FAMST 122CA - Topics in National Cinema
+FAMST 122CN - Topics in National Cinema
+FAMST 122CU - Topics in National Cinema
+FAMST 122EA - Topics in National Cinema
+FAMST 122EC - Topics in National Cinema
+FAMST 122EU - Topics in National Cinema
+FAMST 122FF - Topics in National Cinema
+FAMST 122FI - Topics in National Cinema
+FAMST 122FL - Topics in National Cinema
+FAMST 122FR - Topics in National Cinema
+FAMST 122HE - Topics in National Cinema
+FAMST 122HK - Topics in National Cinema
+FAMST 122HU - Topics in National Cinema
+FAMST 122IC - Topics in National Cinema
+FAMST 122IM - Topics in National Cinema
+FAMST 122IN - Topics in National Cinema
+FAMST 122IT - Topics in National Cinema
+FAMST 122KO - Topics in National Cinema
+FAMST 122LA - Topics in National Cinema
+FAMST 122MC - Topics in National Cinema
+FAMST 122ME - Topics in National Cinema
+FAMST 122MX - Topics in National Cinema
+FAMST 122NA - Topics in National Cinema
+FAMST 122NG - Topics in National Cinema
+FAMST 122NI - Topics in National Cinema
+FAMST 122PC - Topics in National Cinema
+FAMST 122RA - Topics in National Cinema
+FAMST 122TH - Topics in National Cinema
+FAMST 122TN - Topics in National Cinema
+FAMST 122WN - Topics in National Cinema
+FAMST 124 - Indian Cinema
+FAMST 125A - Documentary Film
+FAMST 125B - Documentary Film
+FAMST 126 - Cuban Cinema
+FAMST 127 - Latin American Cinema
+FAMST 127M - Mexican Film and Television
+FAMST 133 - Soviet Cinema, 1917-1945
+FAMST 134 - French and Francophone Cinema
+FAMST 136 - British Cinema
+FAMST 144 - The Horror Film
+FAMST 163 - Women and Film: Feminist Perspectives
+FAMST 169 - Film Noir
+FAMST 175 - Experimental Film
+FAMST 178Z - Technology and Cinema
+FR 156A - French Cinema: History and Theory
+FR 156B - French and Francophone Cinema
+FR 156C - Modern Images of the Middle Ages: The Intersection of Text, History, and Film
+FR 156D - Technology and Cinema
+GER 55A - Contemporary German Pop Culture
+GER 183 - The Horror Film
+ITAL 124X - Italian Theatre
+ITAL 178B - Italian Cinema
+ITAL 179X - Fiction and Film in Italy
+ITAL 180Z - Italian Cinema
+JAPAN 134F - Arts of Japan
+JAPAN 134G - Japanese Painting
+JAPAN 134H - Ukiyo-e: Pictures of the Floating World
+JAPAN 149 - Traditional Japanese Drama
+JAPAN 159 - Japanese Cinema
+JAPAN 159A - Postwar Japanese Cinema (1945-1985)
+KOR 75 - Introduction to Popular Culture in Korean Film
+MUS 11 - Fundamentals of Music
+MUS 15 - Music Appreciation
+MUS 17 - World Music
+MUS 114 - Music and Popular Culture in America
+MUS 115 - Symphonic Music
+MUS 116 - American Music History: From the Colonial Period to the Present
+MUS 118A - History and Literature of Great Composers in Western Music
+MUS 119A - Music and Politics
+MUS 119B - Music in Political Films
+SLAV 130A - The Avantgarde in Russia
+SLAV 130B - Russian Cinema
+SLAV 130C - Contemporary Art in Russia and Eastern Europe
+SLAV 130D - Russian Art
+SLAV 130E - Masters of Soviet Cinema
+SPAN 126 - Spanish Cinema
+THTR 2A - Performance in Global Contexts: Africa and the Caribbean
+THTR 2B - Performance in Global Contexts: ASIA
+THTR 2C - Performance in Global Contexts: EUROPE
+THTR 3 - Life of the Theater
+THTR 5 - Introduction To Acting
+THTR 7 - Performance of the Human Body
+THTR 8 - European Theater History
+THTR 9 - Playwriting
+THTR 143 - The People's Voice
+THTR 180A - American Drama to 1940
+THTR 180B - American Drama 1940 to Present
+THTR 180C - Contemporary American Drama and Theater
+THTR 180E - Culture Clash: Studies in U.S. Latino Theater
+THTR 180G - Race, Gender, and Performance
+THTR 181S - National Studies in Spanish Theater and Drama
+THTR 182A - Ancient Theater and Drama
+THTR 182M - Modern Theater and Drama
+THTR 182MC - Modern Contemporary
+THTR 182N - Neoclassical Theater and Drama
+THTR 182RM - Romantic Theater and Drama
+THTR 184AA - African American Performance
+THTR 184CA - Comparative African Theater and Performance
+THTR 188S - Shakespeare on Film and Stage

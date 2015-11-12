@@ -1,0 +1,111 @@
+CHIN 2 - Elementary Modern Chinese
+CHIN 2NH - First Year Chinese Heritage
+CHIN 3 - Elementary Modern Chinese
+CHIN 3NH - First Year Chinese Heritage
+CHIN 4 - Intermediate Modern Chinese
+CHIN 4NH - Second Year Chinese Heritage
+CHIN 5 - Intermediate Modern Chinese
+CHIN 5NH - Second Year Chinese Heritage
+CHIN 6 - Intermediate Modern Chinese
+FR 2 - Elementary French
+FR 3 - Elementary French
+FR 4 - Intermediate French
+FR 5 - Intermediate French
+FR 6 - Intermediate French
+FR 6GS - Intermediate French for Global Studies and Political Science
+GER 2 - Elementary German
+GER 3 - Elementary German
+GER 4 - Intermediate German
+GER 5 - Intermediate German
+GER 6 - Intermediate German
+GER 95B - Intermediate Yiddish
+GER 95C - Advanced Yiddish
+GLOBL 60B - Elementary Punjabi II
+GLOBL 60C - Elementary Punjabi III
+GLOBL 60D - Intermediate Punjabi IV
+GLOBL 60E - Intermediate Punjabi V
+GLOBL 60F - Intermediate Punjabi VI
+GREEK 2 - Elementary Greek
+GREEK 3 - Intermediate Greek
+GREEK 12 - Elementary Modern Greek
+GREEK 13 - Intermediate Modern Greek
+HEB 2 - Elementary Hebrew
+HEB 3 - Elementary Hebrew
+HEB 4 - Intermediate Modern Hebrew
+HEB 5 - Intermediate Modern Hebrew
+HEB 6 - Intermediate Modern Hebrew
+ITAL 2 - Elementary Italian
+ITAL 3 - Elementary Italian
+ITAL 4 - Intermediate Italian
+ITAL 5 - Intermediate Italian
+ITAL 6 - Intermediate Italian
+JAPAN 2 - First-Year Japanese II
+JAPAN 3 - First-Year Japanese III
+JAPAN 4 - Second-Year Japanese I
+JAPAN 5 - Second-Year Japanese II
+JAPAN 6 - Second-Year Japanese III
+LATIN 2 - Elementary Latin
+LATIN 3 - Intermediate Latin
+PORT 2 - Elementary Portuguese II
+PORT 3 - Elementary Portuguese III
+PORT 4 - Intermediate Portuguese
+PORT 5 - Intermediate Portuguese
+PORT 6 - Intermediate Portuguese
+RG ST 10B - Elementary Arabic II
+RG ST 10C - Elementary Arabic III
+RG ST 10D - Intermediate Arabic IV
+RG ST 10E - Intermediate Arabic V
+RG ST 10F - Intermediate Arabic VI
+RG ST 11B - Elementary Hindi II
+RG ST 11C - Elementary Hindi III
+RG ST 11D - Intermediate Hindi IV
+RG ST 11E - Intermediate Hindi V
+RG ST 11F - Intermediate Hindi VI
+RG ST 17B - Introduction to Biblical Hebrew II
+RG ST 17C - Introduction to Biblical Hebrew III
+RG ST 30B - Elementary Literary Tibetan II
+RG ST 30C - Elementary Literary Tibetan III
+RG ST 30D - Intermediate Tibetan IV
+RG ST 30E - Intermediate Tibetan V
+RG ST 30F - Intermediate Tibetan VI
+RG ST 45B - Introduction to Pashto Language II
+RG ST 45C - Introduction to Pashto Language III
+RG ST 45D - Intermediate Pashto Language IV
+RG ST 45E - Intermediate Pashto Language V
+RG ST 45F - Intermediate Pashto Language VI
+RG ST 57B - Elementary Persian II
+RG ST 57C - Elementary Persian III
+RG ST 57D - Intermediate Persian IV
+RG ST 57E - Intermediate Persian V
+RG ST 57F - Intermediate Persian VI
+RG ST 60B - Elementary Punjabi II
+RG ST 60C - Elementary Punjabi III
+RG ST 60D - Intermediate Punjabi IV
+RG ST 60E - Intermediate Punjabi V
+RG ST 60F - Intermediate Punjabi VI
+RG ST 65B - Introduction to Turkish Language II
+RG ST 65C - Introduction to Turkish Language III
+RG ST 65D - Intermediate Turkish Language IV
+RG ST 65E - Intermediate Turkish Language V
+RG ST 65F - Intermediate Turkish Language VI
+RG ST 122B - Syriac II
+RG ST 157A - Advanced Persian I
+RG ST 157B - Advanced Persian II
+RG ST 157C - Advanced Persian III
+RG ST 159B - Elementary Sanskrit
+RG ST 159C - Elementary Sanskrit
+SLAV 2 - Elementary Russian
+SLAV 3 - Elementary Russian
+SLAV 4 - Intermediate Russian
+SLAV 5 - Intermediate Russian
+SLAV 6 - Intermediate Russian
+SPAN 2 - Elementary Spanish
+SPAN 2SS - Intensive Elementary Spanish
+SPAN 3 - Elementary Spanish III
+SPAN 3SS - Intensive Elementary Spanish III
+SPAN 4 - Intermediate Spanish I
+SPAN 4SS - Intensive Intermediate Spanish I
+SPAN 5 - Intermediate Spanish II
+SPAN 5SS - Intensive Intermediate Spanish II
+SPAN 6 - Intermediate Spanish III
+SPAN 6SS - Intensive Intermediate Spanish III

@@ -1,11 +1,18 @@
 
 require "./course_request"
 
-url = "https://my.sa.ucsb.edu/catalog/2010-2011/UndergraduateEducation/AreaD.aspx"
-dCourses = CourseRequest.getGeneralEd(url)
+def writeGenEdsToFiles
+	letters = ['B', 'C', 'D', 'E', 'F', 'G', 'H']
+	url = "https://my.sa.ucsb.edu/catalog/2014-2015/UndergraduateEducation/"
 
-dCourses.each do |course|
-	puts course
+	letters.each do |letter|
+		url_ = url + "Area#{letter}.aspx"
+		courses = CourseRequest.getGeneralEd(url_)
+		outfile = "area#{letter}.txt"
+		courses.each do |course|
+			File.open(outfile, 'a') { |file| file.write(course + "\n") }
+		end
+	end
 end
 
 # course_map = getAllCourses(getDepts)
