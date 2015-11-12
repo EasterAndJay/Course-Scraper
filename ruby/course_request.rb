@@ -69,15 +69,12 @@ module CourseRequest
 		courses = Array.new
 		page = Nokogiri::HTML(open(url))
 		page.css('p').each do |course|
-			courseIntermediate= course.text.strip
-			courseIntermediate += " "
-			#puts courseIntermediate
-			#courseText = courseIntermediate.string_between_markers("", "-")
-			#courseText = courseText + courseIntermediate.string_between_markers("-", " ")
-			courses << courseIntermediate
-			# TODO:
-			# Need to find a way to strip unneeded white space within string
-			# Don't want to get rid of all internal spaces
+			# Remove leading and trailing whitespace
+			courseText = course.text.strip
+
+			# Replace multiple whitespace with single space
+			courseText = courseText.gsub(/\s+/, ' ')
+			courses << courseText
 		end
 		return courses
 	end
