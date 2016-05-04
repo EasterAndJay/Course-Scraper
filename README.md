@@ -7,16 +7,16 @@ Link to GOLD:  https://my.sa.ucsb.edu/gold/Login.aspx?ReturnUrl=%2fgold%2fHome.a
 
 Make sure you have your environment variables set up in config.rb. Also ensure you have a depts.txt file in the /text folder.
 
-GoldSearch.scrapeAllCourses(ENV["GOLD_USERNAME"], ENV["GOLD_PASSWORD"], 20162)
+`GoldSearch.scrapeAllCourses(ENV["GOLD_USERNAME"], ENV["GOLD_PASSWORD"], 20162)`
 
 Will print all courses in all departments offered during Spring 2016 in JSON format.
 The 3rd argument, 20162, can be decoded as follows:
 
-Desired year = 2016
+```Desired year = 2016
 Desired quarter = Spring = 2
 
 Quarter numbers:
   1 -> Winter
   2 -> Spring
   3 -> Summer
-  4 -> Fall
+  4 -> Fall```
