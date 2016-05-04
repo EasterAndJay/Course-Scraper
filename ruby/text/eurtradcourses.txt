@@ -1,0 +1,65 @@
+ARTHI 6A - Art Survey I: Ancient-Medieval Art
+ARTHI 6B - Art Survey II: Renaissance-Baroque Art
+ARTHI 6C - Art Survey III: Modern-Contemporary Art
+ARTHI 136K - Modern Architecture in Early Twentieth-Century Europe
+ARTHI 136L - From Modernism to Post-Modernism in European Architecture
+C LIT 30A - Major Works in European Literature
+C LIT 30B - Major Works in European Literature
+C LIT 30C - Major Works in European Literature
+CLASS 36 - Ancient Epic
+CLASS 37 - Greek Literature In Translation
+CLASS 38 - Latin Literature In Translation
+CLASS 39 - Women in Classical Literature
+CLASS 40 - Greek Mythology
+CLASS 50 - Introduction to Classical Archaeology
+CLASS 80A - Greek Civilization
+CLASS 80B - Roman Civilization
+CLASS 101 - Greek Intellectual History from Homer to Aristotle
+CLASS 102 - Greek Tragedy In Translation
+CLASS 106 - Magic And Medicine In Ancient Greece
+CLASS 108 - Pagan Religion And Cult In Ancient Rome
+CLASS 109 - Viewing the Barbarian: Representations of Foreign Peoples in Greek Literature
+CLASS 110 - From Homer To Harlequin: Masculine, Feminine And The Romance
+CLASS 120 - Greek And Latin Lyric Poetry
+CLASS 125 - Greek and Roman Historians in Translation
+CLASS 130 - Comedy And Satire In Translation
+CLASS 150 - The Fall of the Ancient Republic: Cicero, Caesar, and Rome
+CLASS 160 - Greek Cities and Sanctuaries
+CLASS 165 - Greek Painting
+CLASS 170 - Pompeii
+CLASS 171 - Artifact and Text: The Archaeology and Literature of Early Greece
+CLASS 175 - Ancient Theories of Literature
+FR 50AX - Tales of Love
+FR 50BX - Tales of Love-European Traditions
+FR 50CX - Tales of Western Love
+GER 111 - Contemporary German Art and Politics
+GER 112 - Introduction to German Culture
+GREEK 100 - Introduction To Greek Prose
+GREEK 101 - Introduction To Greek Poetry
+HIST 2A - World History
+HIST 2AH - World History - Honors
+HIST 2B - World History
+HIST 2BH - World History - Honors
+HIST 2C - World History
+HIST 2CH - World History - Honors
+HIST 4A - Western Civilization
+HIST 4AH - Western Civilization-Honors
+HIST 4B - Western Civilization
+HIST 4BH - Western Civilization-Honors
+HIST 4C - Western Civilization
+HIST 4CH - Western Civilization-Honors
+HIST 33D - The Holocaust: Interdisciplinary Perspectives
+HIST 133D - The Nazi Holocaust and Other Genocides
+ITAL 189A - Italy in the Mediterranean: History, Arts, and Culture
+LATIN 100 - Introduction To Latin Prose
+LATIN 101 - Introduction To Latin Poetry
+PHIL 20A - History of Philosophy
+PHIL 20B - History of Philosophy
+PHIL 20C - History of Philosophy
+RG ST 25 - Global Catholicism Today
+RG ST 34 - Saints and Miracles in the Catholic Tradition
+RG ST 80A - Religion and Western Civilization I: Ancient
+RG ST 80B - Religion and Western Civilization II: Medieval
+RG ST 80C - Religion and Western Civilization III: Modern
+THTR 2C - Performance in Global Contexts: EUROPE
+THTR 8 - European Theater History

@@ -1,0 +1,166 @@
+ANTH 148A - Comparative Ethnicity
+ANTH 191 - Indigenous Movements in Asia
+ARTHI 121D - African American Art and the African Legacy
+AS AM 1 - Introduction to Asian American History, 1850-Present
+AS AM 2 - American Migration Since 1965: Asians and others in the United States
+AS AM 3 - Asian American Personality and Identity
+AS AM 4 - Introduction to Asian American Popular Culture
+AS AM 5 - Introduction to Asian American Literature
+AS AM 7 - Globalization, Gender and Social Inequality in Asian America
+AS AM 8 - Introduction to Asian American Gender and Sexuality
+AS AM 71 - Introduction to Asian American Religions
+AS AM 100AA - Chinese Americans
+AS AM 100BB - Japanese Americans
+AS AM 100CC - Filipino Americans
+AS AM 100DD - Korean Americans
+AS AM 100FF - South Asian Americans
+AS AM 107 - Third World Social Movements
+AS AM 109 - Gender and Labor in Transnational Asian America
+AS AM 111 - Asian American Communities and Contemporary Issues
+AS AM 113 - Asian Americans and the Long Civil Rights Movement
+AS AM 118 - Asian Americans in Popular Culture
+AS AM 119 - Asian Americans and Race Relations
+AS AM 120 - Asian American Documentary
+AS AM 121 - Asian American Autobiographies and Biographies
+AS AM 124 - Comparative Ethnic American Literature
+AS AM 127 - Asian American Film, Television, and Digital Media
+AS AM 130 - Colonialism and Migration in the Passage to America
+AS AM 131 - Asian American Women's History
+AS AM 136 - Asian American Families
+AS AM 137 - Multiethnic Asian Americans
+AS AM 138 - Asian American Sexualities
+AS AM 140 - Theory & Production of Social Experience
+AS AM 146 - Racialized Sexuality on Screen and Scene
+AS AM 148 - Introduction to Video Production
+AS AM 149 - Screenwriting
+AS AM 154 - Race and Law in Early American History
+AS AM 155 - Racial Segregation from the Civil War to the Civil Rights Movement
+AS AM 156 - Race and Law in Modern America
+AS AM 161 - Asian American Religions
+AS AM 165 - Ethnographies of Asian America
+BL ST 1 - Introduction to African-American Studies
+BL ST 1H - Introduction to African-American Studies- Honors Seminar
+BL ST 4 - Critical Introduction to Race and Racism
+BL ST 6 - The Civil Rights Movement
+BL ST 6H - The Civil Rights Movement- Honors
+BL ST 14 - The History of Jazz
+BL ST 15 - The Psychology of Blacks
+BL ST 38A - Introduction to African-American Literature (Part 1)
+BL ST 38B - Introduction to African-American Literature (Part II)
+BL ST 50 - Blacks in the Media
+BL ST 102 - Black Radicals and the Radical Tradition
+BL ST 103 - The Politics of Black Liberation - The Sixties
+BL ST 108 - Obama as a Political and Cultural Phenomenon
+BL ST 122 - The Education of Black Children
+BL ST 127 - Black Women Writers
+BL ST 129 - The Urban Dilemma
+BL ST 131 - Race and Public Policy
+BL ST 137E - Sociology of the Black Experience
+BL ST 142 - Music in African-American Cultures: U.S.A.
+BL ST 160 - Analyses of Racism and Social Policy in the United States
+BL ST 169AR - African-American History
+BL ST 169BR - African-American History
+BL ST 169CR - African-American History
+BL ST 170 - African-Americans in the American Cinema
+BL ST 172 - Contemporary Black Cinema
+C LIT 153 - Border Narratives
+CH ST 1A - Introduction to Chicano/a Studies
+CH ST 1B - Introduction to Chicano/a Studies
+CH ST 1C - Introduction to Chicano/a Studies
+CH ST 125B - Contemporary Chicano and Chicana Art
+CH ST 137 - Chicana/o Oral Traditions
+CH ST 138 - Barrio Popular Culture
+CH ST 139 - Chicana/o Native American Heritage
+CH ST 140 - Chicana/o Mexican Cultural Heritage
+CH ST 144 - The Chicano Community
+CH ST 148 - Chicana Art and Feminism
+CH ST 151 - De-Colonizing Feminism
+CH ST 152 - Postcolonialism
+CH ST 168A - History of the Chicano
+CH ST 168B - History of the Chicano
+CH ST 168E - History of the Chicano Movement
+CH ST 168F - Racism in American History
+CH ST 171 - The Brown/Black Metropolis: Race, Class, & Resistance in the City
+CH ST 172 - Law and Civil Rights
+CH ST 173 - Immigrant Labor Organizing
+CH ST 174 - Chicano/a Politics
+CH ST 175 - Comparative Social Movements
+CH ST 178A - Global Migration, Transnationalism in Chicana/o Contexts
+CH ST 180 - Survey of Chicano Literature
+CH ST 181 - The Chicano Novel
+CH ST 184A - Chicana Writers
+CH ST 187 - Language, Power, and Learning
+CH ST 188C - Chicano Theater Workshop
+CH ST 189 - Immigration and the U.S. Border
+EACS 140 - Indigenous Movements in Asia
+ED 187 - Language, Power, and Learning
+ENGL 38A - Introduction to African-American Literature (Part 1)
+ENGL 38B - Introduction to African-American Literature (Part II)
+ENGL 50 - Introduction to U.S. Minority Literature
+ENGL 114BW - Women and Literature
+ENGL 134 - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134AA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134BB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IA - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IB - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134IR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MD - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134MP - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134NA - Studies in the Literature of Cultural and Ethnic Communities in the United States
+ENGL 134PC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134RS - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134TC - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 134TR - Studies in Literature of Cultural and Ethnic Communities in the United States
+ENGL 187AA - Studies in Modern Literature
+ENGL 191 - Afro-American Fiction and Criticism, 1920's to the present
+ENV S 189 - Religion And Ecology In The Americas
+FAMST 127 - Latin American Cinema
+FEMST 60 - Women of Color: Race, Class, and Ethnicity
+FEMST 60H - Women of Color: Race, Class, and Ethnicity Honors
+FEMST 142 - Black Women Filmmakers
+FEMST 153 - Women and Work
+HIST 160A - The American South to 1865
+HIST 160B - The American South, 1865 to the Present
+HIST 161A - Colonial and Revolutionary America
+HIST 161B - Colonial and Revolutionary America
+HIST 164IA - American Immigration
+HIST 164IB - American Immigration
+HIST 168A - History of the Chicanos
+HIST 168B - History of the Chicanos
+HIST 168E - History of the Chicano Movement
+HIST 168M - Middle Eastern Americans
+HIST 168N - Interracial Intimacy
+HIST 169AR - African-American History
+HIST 169BR - African-American History
+HIST 169CR - African-American History
+HIST 179A - Native American History to 1838
+HIST 179B - Native American History, 1838 to the Present
+LING 136 - African American Language and Culture
+LING 180 - Language, Race and Ethnicity
+LING 187 - Language, Power and Learning
+RG ST 14 - Introduction to Native American Religious Studies
+RG ST 71 - Introduction to Religion in Asian America
+RG ST 110D - Ritual Art and Verbal Art of the Pacific Northwest
+RG ST 114D - Religion and Healing in Native America
+RG ST 123 - Asian American Religions
+RG ST 131F - The History of Anti-Semitism
+RG ST 140E - Islam in America
+RG ST 162F - South Asians in the U.S.
+RG ST 193 - Religion and Ecology in the Americas
+SOC 128 - Sociology of Race and Ethnicity
+SOC 137E - Sociology of the Black Experience
+SOC 139A - Black and White Relations: Towards Pluralism or Integration?
+SOC 144 - The Chicano Community
+SOC 153 - Women and Work
+SOC 154F - The Chicano Family
+SOC 155M - Contemporary U.S. Women's Movements
+SOC 155W - Chicanas and Mexican Women in Contemporary Society
+SPAN 109 - Spanish in the United States: The Language and Its Speakers
+SPAN 135 - Survey of Chicano Literature
+SPAN 139 - U.S. Latino Literature
+SPAN 179 - The Chicano Novel
+THTR 180E - Culture Clash: Studies in U.S. Latino Theater
+THTR 180F - Asian American Theater
+THTR 180G - Race, Gender, and Performance
+THTR 184AA - African American Performance

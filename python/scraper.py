@@ -4,18 +4,9 @@ from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.poolmanager import PoolManager
 import ssl
 
-class MyAdapter(HTTPAdapter):
-    def init_poolmanager(self, connections=1, maxsize=1000, block=False):
-        self.poolmanager = PoolManager(num_pools=connections,
-                                       maxsize=maxsize,
-                                       block=block,
-                                       ssl_version=ssl.PROTOCOL_TLSv1)
 
 # Use this website to get special course information 
 # http://my.sa.ucsb.edu/catalog/current/UndergraduateEducation/SpecialSubjectAreaRequirements.aspx
-
-s = requests.Session()
-s.mount('https://', MyAdapter())
 
 class Scraper(object):
 
@@ -35,7 +26,7 @@ class Scraper(object):
 	# Opens the page, creates a DOM tree of HTML elements, closes page
 
 	def openPage(self):
-		page = s.get(self.url,verify=True)
+		page = requests.get(self.url,cert="../ruby/cacert.pem")
 		tree = html.fromstring(page.text)
 		page.close()
 		return tree
