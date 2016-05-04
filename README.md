@@ -10,7 +10,7 @@ Make sure you have your environment variables set up in config.rb. Also ensure y
 `GoldSearch.scrapeAllCourses(ENV["GOLD_USERNAME"], ENV["GOLD_PASSWORD"], 20162)`
 
 Will print all courses in all departments offered during Spring 2016 in JSON format.
-The 3rd argument, 20162, can be decoded as follows:
+The 3rd argument, `20162`, can be decoded as follows:
 
 ```
 Desired year = 2016
